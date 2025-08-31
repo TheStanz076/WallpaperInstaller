@@ -1,0 +1,17 @@
+# Ignore installer script
+*.iss
+
+# Ignore test files
+test_*.ps1
+*.bak
+*.tmp
+
+# Ignore logs and local config
+*.log
+config.ini
+
+# Ignore folders
+/Archive/
+/Fallback/
+/Temp/
+/Output/
